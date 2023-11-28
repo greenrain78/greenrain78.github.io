@@ -18,5 +18,7 @@ package-lock.json
 .idea
 .vscode
 
-# Misc
-assets/js/dist
+
+# # Misc
+# # assets를 npm run build해서 전달함
+# assets/js/dist
