@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GreenRain Blog # the main title
+title: GreenRain # the main title
 
 tagline: chirpy jekyll theme # it will display as the sub-title
 
